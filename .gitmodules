@@ -1,0 +1,3 @@
+[submodule "shared1"]
+	path = shared1
+	url = https://github.com/origami1024/shared1
